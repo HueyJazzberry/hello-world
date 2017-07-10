@@ -1,2 +1,3 @@
 # hello-world
-repository for REThinl
+Hi,
+I' learning a bout how to use this stuff.
